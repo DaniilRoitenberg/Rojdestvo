@@ -1,0 +1,200 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+
+
+.heading {
+    background-size: cover;
+    background-image: url(Рисунок1.jpg);
+    color: #000;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 178px;
+    padding-left: 390px;
+    padding-right: 539px;
+    padding-bottom: 116px;
+    background-position: center;
+
+}
+
+
+.about{
+    padding-bottom: 30px;
+}
+
+.h1 {color: #E04545;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 185px;
+    padding-top: 30px;
+    padding-right: 104px;
+}
+
+.text1 {
+    display: flex;
+    color: #000;
+    font-family: sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    flex-direction: row;
+    padding-left: 185px;
+    
+}
+
+
+
+.im1 {
+    flex-direction: row;
+    padding-left: 50px;
+    width: 510px;
+    height: 521px;
+    padding-top: 40px;
+    padding-right: 125px;
+    
+}
+
+.about > div {
+    display: flex;
+}
+
+
+.h2 {color: #E04545;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 105px;
+    padding-top: 30px;
+    padding-right: 104px;
+}
+
+.elka > .cont {
+    display: flex;
+}
+
+
+.im2{
+    flex-direction: row;
+    width: 558px;
+    height: 630px;
+    padding-left: 185px;
+    padding-top: 57px;
+    
+}
+
+.text2 {
+    flex-direction: row;
+    color: #000;
+    font-family: sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-right: 113px;
+    padding-left: 58px;
+}
+
+.elka{
+    padding-bottom: 50px;
+}
+
+
+.h3 {color: #E04545;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 105px;
+    padding-top: 30px;
+    padding-right: 104px;
+}
+
+
+
+.cont2 {color: #000;
+    font-family: sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 232px;
+    padding-top: 22px;
+    padding-right: 188px;
+    
+}
+
+.first {
+    padding-left: 232px;
+}
+
+.second {
+    padding-left: 153px;
+}
+
+.food {
+    padding-bottom: 75px;
+}
+
+
+
+.makers {
+    padding-bottom: 80px;
+}
+
+.m_p {
+    display: flex;
+}
+
+
+.D {
+    padding-left: 100px;
+}
+
+.M {
+    padding-left: 219px;
+}
+
+figcaption {color: #000;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+
+.makers > .h3 {
+    padding-bottom: 80px;
+}
+
+
+.thanks {
+    background-color: #4EB866;
+    color: #FFF;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 28px 368px 28px 368px;
+}
+
+
